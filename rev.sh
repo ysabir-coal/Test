@@ -1,4 +1,3 @@
 #!/bin/sh
 
-
-echo "Catching a connection!"
+echo "testing" > test.txt
